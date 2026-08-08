@@ -7,7 +7,7 @@ class Solution:
         count = 0
 
         while right < len(s):
-            sub = int(s[left:right + 1])
+            sub = int(s[left:left + k])
 
             if sub != 0 and num % sub == 0:
                 count += 1
