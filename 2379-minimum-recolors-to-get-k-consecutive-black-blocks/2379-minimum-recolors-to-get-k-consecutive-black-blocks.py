@@ -1,30 +1,19 @@
 class Solution:
     def minimumRecolors(self, blocks: str, k: int) -> int:
+        left = 0
         colours = 0
+        minimum = float('inf')
 
-        # Count white blocks in the first window
-        for i in range(k):
-            if blocks[i] == 'W':
+        for right in range(len(blocks)):
+            if blocks[right] == 'W':
                 colours += 1
 
-        mincolo = colours
-        start = 1
-        end = k
+            if right - left + 1 == k:
+                minimum = min(minimum, colours)
 
-        while end < len(blocks):
-            # Remove the leftmost block
-            if blocks[start - 1] == 'W':
-                colours -= 1
+                if blocks[left] == 'W':
+                    colours -= 1
 
-            # Add the new block
-            if blocks[end] == 'W':
-                colours += 1
+                left += 1
 
-            mincolo = min(mincolo, colours)
-
-            start += 1
-            end += 1
-
-        return mincolo
-
-        
+        return minimum
