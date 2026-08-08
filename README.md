@@ -9,9 +9,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hanokjoshua144/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hanokjoshua144/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hanokjoshua144/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## String
 |  |
 | ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hanokjoshua144/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hanokjoshua144/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Math
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hanokjoshua144/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
