@@ -23,8 +23,10 @@ class Solution:
 
             size -= code[left]
             left = (left + 1) % n
+            
 
             right = (right + 1) % n
+            
             size += code[right]
 
         return ans
