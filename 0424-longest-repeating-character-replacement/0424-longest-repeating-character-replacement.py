@@ -13,7 +13,7 @@ class Solution:
                 count[s[left]] -= 1
                 left += 1
 
-                max_frequency = max(count.values())
+                
 
             maximum = max(maximum, right - left + 1)
 
