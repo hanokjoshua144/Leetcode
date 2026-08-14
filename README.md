@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/hanokjoshua144/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hanokjoshua144/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/hanokjoshua144/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1732-find-the-highest-altitude](https://github.com/hanokjoshua144/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/hanokjoshua144/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hanokjoshua144/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hanokjoshua144/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/hanokjoshua144/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hanokjoshua144/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/hanokjoshua144/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/hanokjoshua144/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
