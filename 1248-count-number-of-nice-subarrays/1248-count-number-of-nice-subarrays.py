@@ -1,25 +1,20 @@
 class Solution:
     def numberOfSubarrays(self, nums: List[int], k: int) -> int:
+        count = {0: 1}
+        prefix = 0
+        total = 0
 
-        def atMost(k):
-            left = 0
-            total = 0
-            count = 0
+        for num in nums:
+            if num % 2 == 1:
+                prefix += 1
 
-            for right in range(len(nums)):
-                if nums[right] % 2 != 0:
-                    count += 1
+            if prefix - k in count:
+                total += count[prefix - k]
 
-                while count > k:
-                    if nums[left] % 2 != 0:
-                        count -= 1
-                    left += 1
+            count[prefix] = count.get(prefix, 0) + 1
 
-                total += right - left + 1
+        return total
 
-            return total
-
-        return atMost(k) - atMost(k - 1)
         
 
 
