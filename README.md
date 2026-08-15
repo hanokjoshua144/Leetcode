@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hanokjoshua144/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hanokjoshua144/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hanokjoshua144/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hanokjoshua144/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/hanokjoshua144/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hanokjoshua144/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hanokjoshua144/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hanokjoshua144/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hanokjoshua144/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/hanokjoshua144/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hanokjoshua144/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hanokjoshua144/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/hanokjoshua144/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/hanokjoshua144/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/hanokjoshua144/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hanokjoshua144/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/hanokjoshua144/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hanokjoshua144/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/hanokjoshua144/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/hanokjoshua144/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
