@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hanokjoshua144/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/hanokjoshua144/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/hanokjoshua144/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/hanokjoshua144/Leetcode/tree/master/0704-binary-search) |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hanokjoshua144/Leetcode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/hanokjoshua144/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
