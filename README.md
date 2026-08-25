@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hanokjoshua144/Leetcode/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hanokjoshua144/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hanokjoshua144/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hanokjoshua144/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hanokjoshua144/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/hanokjoshua144/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hanokjoshua144/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/hanokjoshua144/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/hanokjoshua144/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hanokjoshua144/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
