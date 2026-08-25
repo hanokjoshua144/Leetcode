@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/hanokjoshua144/Leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/hanokjoshua144/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hanokjoshua144/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hanokjoshua144/Leetcode/tree/master/0349-intersection-of-two-arrays) |
