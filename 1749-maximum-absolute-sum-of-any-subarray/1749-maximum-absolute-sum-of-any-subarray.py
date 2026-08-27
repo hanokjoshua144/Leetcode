@@ -14,6 +14,6 @@ class Solution:
             current_min = min(nums[i], current_min + nums[i])
             minimum = min(minimum, current_min)
 
-        answer = max(abs(maximum), abs(minimum))
+       
 
-        return answer
+        return max(abs(maximum), abs(minimum))
