@@ -4,9 +4,7 @@ class Solution:
         maximum = 0
 
         for i in range(1, len(prices)):
-            minimum = min(minimum, prices[i])
-
             maximum = max(maximum, prices[i] - minimum)
-           
+            minimum = min(minimum, prices[i])
 
         return maximum
