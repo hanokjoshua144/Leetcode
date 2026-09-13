@@ -2,9 +2,9 @@ class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         newl = []
 
-        for i in nums:
-            if i not in newl:
-                newl.append(i)
+        for num in nums:
+            if num not in newl:
+                newl.append(num)
 
         for i in range(len(newl)):
             nums[i] = newl[i]
