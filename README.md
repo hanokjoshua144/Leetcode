@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hanokjoshua144/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/hanokjoshua144/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hanokjoshua144/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hanokjoshua144/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hanokjoshua144/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hanokjoshua144/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hanokjoshua144/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hanokjoshua144/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/hanokjoshua144/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/hanokjoshua144/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hanokjoshua144/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Newton's Method
 |  |
 | ------- |
