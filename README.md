@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/hanokjoshua144/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/hanokjoshua144/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hanokjoshua144/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/hanokjoshua144/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hanokjoshua144/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/hanokjoshua144/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/hanokjoshua144/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/hanokjoshua144/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hanokjoshua144/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quicksort
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/hanokjoshua144/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/hanokjoshua144/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/hanokjoshua144/Leetcode/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/hanokjoshua144/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hanokjoshua144/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Newton's Method
 |  |
