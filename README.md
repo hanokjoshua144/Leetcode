@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hanokjoshua144/Leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/hanokjoshua144/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/hanokjoshua144/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/hanokjoshua144/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Sorting
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hanokjoshua144/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/hanokjoshua144/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/hanokjoshua144/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/hanokjoshua144/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/hanokjoshua144/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
