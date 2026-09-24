@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/hanokjoshua144/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hanokjoshua144/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hanokjoshua144/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hanokjoshua144/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hanokjoshua144/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hanokjoshua144/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/hanokjoshua144/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hanokjoshua144/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hanokjoshua144/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
