@@ -11,5 +11,7 @@ class Solution:
                 stack.append('}')
             else:
                 if not stack or stack.pop() != ch:
-                    return False
+        
+                   return False
+        
         return len(stack) == 0
