@@ -23,7 +23,4 @@ class Solution:
 
         return result
 
-        for child in reversed(node.children):
-            stack.append(child)
-
-        return result
+        
