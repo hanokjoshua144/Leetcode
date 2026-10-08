@@ -1,17 +1,19 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
         result = []
-        count = 0
+        stack = []
 
         for ch in s:
             if ch == '(':
-                if count > 0:
+                stack.append(ch)
+
+                if len(stack) > 1:
                     result.append(ch)
-                count += 1
 
             else:
-                count -= 1
-                if count > 0:
+                stack.pop()
+
+                if len(stack) > 0:
                     result.append(ch)
 
         return ''.join(result)
