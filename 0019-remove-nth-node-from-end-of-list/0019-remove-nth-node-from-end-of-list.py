@@ -12,10 +12,12 @@ class Solution:
         # Move fast n steps
         for i in range(n):
             fast = fast.next
-
+           
         # If removing the first node
         if fast is None:
             return head.next
+
+        
 
         # Move both pointers
         while fast.next:
