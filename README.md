@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hanokjoshua144/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hanokjoshua144/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/hanokjoshua144/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/hanokjoshua144/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hanokjoshua144/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hanokjoshua144/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hanokjoshua144/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/hanokjoshua144/Leetcode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/hanokjoshua144/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hanokjoshua144/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hanokjoshua144/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/hanokjoshua144/Leetcode/tree/master/0523-continuous-subarray-sum) |
